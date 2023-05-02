@@ -30,10 +30,3 @@ Usage
 2. Add destination url
 3. Provide the action (301/302/proxy)
 4. Describe the condition in templating language
-
-License
--------
-
-This project is licensed under the MIT License - see the LICENSE_ file for details
-
-.. _LICENSE: https://github.com/vinayinvicible/django-route/blob/master/LICENSE
